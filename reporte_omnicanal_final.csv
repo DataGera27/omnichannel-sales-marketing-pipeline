@@ -1,0 +1,7 @@
+﻿lead_id,nombre_cliente,origen_canal,edad,fecha_registro,monto_compra,estado_pago
+L-101,Gerardo Rosabal,Google Ads,28.0,2026-06-01,1500.0,COMPLETADO
+L-102,Maria Delgado,No Especificado,34.0,2026-06-02,0.0,NO COMPRÓ
+L-103,Carlos Perez,Facebook,0.0,2026-06-02,850.5,PENDIENTE
+L-104,Ana Gomez,LinkedIn,41.0,2026-06-03,2100.0,COMPLETADO
+L-105,Luis Martinez,Google Ads,22.0,,0.0,CANCELADO
+L-106,Sin Registro en CRM,Desconocido (Error de Tracking),,,99.99,COMPLETADO
